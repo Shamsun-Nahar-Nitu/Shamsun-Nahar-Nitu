@@ -1,0 +1,72 @@
+# Hi there, I'm Shamsun Nahar Nitu 👋
+
+<img align="right" alt="Data Analysis" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+
+I'm an aspiring **Web Developer & Data Enthusiast** passionate about building user-friendly web applications and exploring data insights.
+
+- 🔭 Currently enhancing skills in front-end, full-stack development, and data analysis  
+- 🌱 Learning JavaScript frameworks, Python for data science, and machine learning basics  
+- 📊 Active on Kaggle: Exploring datasets and notebooks  
+- 👯 Open to internships and entry-level IT/data roles  
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shamsun-nahar-nitu) | Email: shamsun.nahar.nitu.92@gmail.com  
+
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shamsun-Nahar-Nitu&show_icons=true&theme=radical&hide_border=true" alt="Nitu's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamsun-Nahar-Nitu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shamsun-Nahar-Nitu&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+## 🔥 Featured Project
+
+### 📚 IUBAT Library Management System
+A web-based library management application built with HTML, CSS, and JavaScript.
+
+- Features: Book catalog, search, add/remove books
+- [View Repository](https://github.com/Shamsun-Nahar-Nitu/iubat-library-management)
+
+
+<br/>
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shamsun-nahar-nitu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Shamsun-Nahar-Nitu">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.kaggle.com/nitu92">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+</p>
+
+
+</p> -->
+
+Thanks for visiting my profile! Let's build something amazing 🚀
