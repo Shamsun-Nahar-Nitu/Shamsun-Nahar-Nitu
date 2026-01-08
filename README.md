@@ -6,10 +6,8 @@ I'm an aspiring **Web Developer & Data Enthusiast** passionate about building us
 
 - 🔭 Currently enhancing skills in front-end, full-stack development, and data analysis  
 - 🌱 Learning JavaScript frameworks, Python for data science, and machine learning basics  
-- 📊 Active on Kaggle: Exploring datasets and notebooks  
-- 👯 Open to internships and entry-level IT/data roles  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shamsun-nahar-nitu)  
-- ⚡ Fun fact: I love turning raw data into meaningful web solutions!
+
 
 <br/>
 
@@ -36,7 +34,7 @@ A web-based library management application built with HTML, CSS, and JavaScript.
 
 ## 🔗 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/shamsun-nahar-nitu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
