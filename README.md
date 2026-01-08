@@ -1,6 +1,6 @@
 # Hi there, I'm Shamsun Nahar Nitu 👋
 
-<img align="right" alt="Data Analysis" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<img align="right" alt="Ambient Coding" width="400" src="https://cdn.svgator.com/images/2025/10/cre8tera-website-ambient-background.gif">
 
 I'm an aspiring **Web Developer & Data Enthusiast** passionate about building user-friendly web applications and exploring data insights.
 
@@ -8,8 +8,8 @@ I'm an aspiring **Web Developer & Data Enthusiast** passionate about building us
 - 🌱 Learning JavaScript frameworks, Python for data science, and machine learning basics  
 - 📊 Active on Kaggle: Exploring datasets and notebooks  
 - 👯 Open to internships and entry-level IT/data roles  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shamsun-nahar-nitu) | Email: shamsun.nahar.nitu.92@gmail.com  
-
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shamsun-nahar-nitu)  
+- ⚡ Fun fact: I love turning raw data into meaningful web solutions!
 
 <br/>
 
@@ -20,21 +20,7 @@ I'm an aspiring **Web Developer & Data Enthusiast** passionate about building us
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-
 </p>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<!-- Overall stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamsun-Nahar-Nitu&show_icons=true&theme=radical&hide_border=true)
-
-<!-- Top languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamsun-Nahar-Nitu&layout=compact&theme=radical&hide_border=true)
-
-<!-- Streak stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shamsun-Nahar-Nitu&theme=radical&hide_border=true)
 
 <br/>
 
@@ -45,7 +31,6 @@ A web-based library management application built with HTML, CSS, and JavaScript.
 
 - Features: Book catalog, search, add/remove books
 - [View Repository](https://github.com/Shamsun-Nahar-Nitu/iubat-library-management)
-
 
 <br/>
 
@@ -63,7 +48,5 @@ A web-based library management application built with HTML, CSS, and JavaScript.
   </a>
 </p>
 
-
-</p> -->
-
 Thanks for visiting my profile! Let's build something amazing 🚀
+
