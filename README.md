@@ -28,16 +28,10 @@ I'm an aspiring **Web Developer & Data Enthusiast** passionate about building us
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shamsun-Nahar-Nitu&show_icons=true&theme=radical&hide_border=true" alt="Nitu's GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shamsun-Nahar-Nitu&theme=radical&no-frame=true&margin-w=15&row=2" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamsun-Nahar-Nitu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shamsun-Nahar-Nitu&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<br/>
 
 <br/>
 
