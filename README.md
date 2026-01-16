@@ -1,4 +1,8 @@
-# Hi there, I'm Shamsun Nahar Nitu 👋
+
+<img width="7680" height="1769" alt="hello-world" src="https://github.com/user-attachments/assets/50837ce5-4e59-49ad-b72f-ea7503067a11" />
+
+## Hi there, I'm Shamsun Nahar Nitu 👋
+
 
 <img align="right" alt="Ambient Coding" width="400" src="https://cdn.svgator.com/images/2025/10/cre8tera-website-ambient-background.gif">
 
@@ -11,18 +15,47 @@ I'm an aspiring **Web Developer & Data Enthusiast** passionate about building us
 
 <br/>
 
-## 🛠️ Tech Stack
+### 💻 Tech Stack:
 
+**Languages & Frameworks**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" height="50"/>
 </p>
+
+**Tools & Platforms**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="50" height="50"/>
+</p>
+
+**Cloud & Workflow**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Terminal" width="50" height="50"/>
+</p>
+
+**Special Interests**
+<p align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="8085 Simulation" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="UI/UX" width="50" height="50"/>
+</p>
+
 
 <br/>
 
-## 🔥 Featured Project
+### 🔥 Featured Project
 
 ### 📚 IUBAT Library Management System
 A web-based library management application built with HTML, CSS, and JavaScript.
@@ -32,7 +65,7 @@ A web-based library management application built with HTML, CSS, and JavaScript.
 
 <br/>
 
-## 🔗 Connect with Me
+### 🔗 Connect with Me
 
 <p>
   <a href="https://www.linkedin.com/in/shamsun-nahar-nitu">
@@ -46,15 +79,15 @@ A web-based library management application built with HTML, CSS, and JavaScript.
   </a>
 </p>
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Shamsun-Nahar-Nitu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shamsun-Nahar-Nitu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamsun-Nahar-Nitu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Shamsun-Nahar-Nitu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shamsun-Nahar-Nitu&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamsun-Nahar-Nitu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shamsun-Nahar-Nitu&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Shamsun-Nahar-Nitu&icon=2&color=6)](https://visitcount.itsvg.in)
 
 
-Thanks for visiting my profile! Let's build something amazing 🚀
+Let's build something amazing.🚀
 
