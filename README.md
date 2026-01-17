@@ -65,7 +65,7 @@ A web-based library management application built with HTML, CSS, and JavaScript.
 
 <br/>
 
-### 🔗 Connect with Me
+###  Connect with Me
 
 <p>
   <a href="https://www.linkedin.com/in/shamsun-nahar-nitu">
@@ -90,6 +90,6 @@ A web-based library management application built with HTML, CSS, and JavaScript.
 
 
 Let's build something amazing.🚀
-### Profile Views
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=Shamsun-Nahar-Nitu&color=blue&style=flat)
 
