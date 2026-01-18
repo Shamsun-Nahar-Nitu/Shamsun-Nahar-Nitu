@@ -4,13 +4,13 @@
 ## I'm Shamsun Nahar Nitu 
 
 Aspiring Web Developer & Data Enthusiast passionate about building user‑friendly web applications and exploring meaningful data insights. I enjoy solving problems, optimizing workflows, and creating clean, efficient solutions that balance functionality with great user experience.  
----
+
 
 ## 📌 About Me  
 - 🔭 Currently enhancing skills in **front‑end design, full‑stack development, and data analysis**  
 - 🌱 Learning **JavaScript frameworks (React, Next.js), Python for data science, and machine learning basics**  
 - ⚡ Interested in **UI/UX optimization, cloud‑based workflows, and structured problem‑solving**  
-- 📚 Enthusiastic about **academic publishing, library management systems, and technical documentation**  
+- 📚 Enthusiastic about **academic publishing and technical documentation**  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shamsun-nahar-nitu) | [GitHub](https://github.com/Shamsun-Nahar-Nitu)  
 
 <br/>
