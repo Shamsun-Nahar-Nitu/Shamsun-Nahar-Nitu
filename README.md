@@ -55,13 +55,14 @@ Aspiring Web Developer & Data Enthusiast passionate about building user‑friend
 
 <br/>
 
-### 🔥 Featured Project
+### 📂 Project Repositories
 
-### 📚 IUBAT Library Management System
-A web-based library management application built with HTML, CSS, and JavaScript.
 
-- Features: Book catalog, search, add/remove books
-- [View Repository](https://github.com/Shamsun-Nahar-Nitu/iubat-library-management)
+| 📂 Repository | 📝 Description | 🛠️ Tech Stack |
+|---------------|----------------|---------------|
+| [**iubat-library-management**](https://github.com/Shamsun-Nahar-Nitu/iubat-library-management) | End-to-end **Library Management System** built with Django. Features include role-based access (Student, Faculty, Librarian, Admin), book issue/return workflows, fine calculation, and automated reporting — designed for institutional scalability. | Django · Python · HTML · CSS · JavaScript |
+| [**mini-credit-scoring-system**](https://github.com/Shamsun-Nahar-Nitu/mini-credit-scoring-system) | **Credit Scoring ML/DL Model** leveraging machine learning & deep learning to predict customer creditworthiness. Includes full Kaggle notebook with exploratory data analysis, feature engineering, and model evaluation. | Python · Machine Learning · Deep Learning · Jupyter Notebook |
+| [**threebroomsticks**](https://github.com/Shamsun-Nahar-Nitu/threebroomsticks) | Console-based **Restaurant Billing System** inspired by *The Three Broomsticks* (Harry Potter). Implements menu handling, order processing, and automated billing — showcasing strong problem-solving and C++ fundamentals. | C++ |
 
 <br/>
 
