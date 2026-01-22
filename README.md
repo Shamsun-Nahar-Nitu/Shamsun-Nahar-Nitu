@@ -17,52 +17,47 @@ Aspiring Web Developer & Data Enthusiast passionate about building user‑friend
 
 ### 💻 Tech Stack:
 
-**Languages & Frameworks**
+#### 🚀 Languages & Frameworks
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
-**Tools & Platforms**
+#### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
 
-**Cloud & Workflow**
+#### ☁️ Cloud & Workflow
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Terminal" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
-**Special Interests**
-<p align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="8085 Simulation" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="UI/UX" width="50" height="50"/>
-</p>
 
 
 <br/>
 
 ### 📂 Project Repositories
 
+| 📂 Repository | 📝 Description & Features | 🛠️ Tech Stack |
+|---------------|--------------------------|---------------|
+| [**iubat-library-management**](https://github.com/Shamsun-Nahar-Nitu/iubat-library-management) | **Library Management System** (Framework: **Django**) <br> • Role-based access (Student, Faculty, Librarian, Admin) <br> • Book issue & return workflows <br> • Fine calculation automation <br> • Reporting & analytics dashboard <br> • Scalable for institutional use | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> |
+| [**mini-credit-scoring-system**](https://github.com/Shamsun-Nahar-Nitu/mini-credit-scoring-system) | **Credit Scoring Model** (Framework: **Jupyter Notebook**) <br> • Machine learning & deep learning models <br> • Exploratory data analysis (EDA) <br> • Feature engineering pipeline <br> • Model evaluation & performance metrics <br> • Kaggle notebook integration | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> |
+| [**threebroomsticks**](https://github.com/Shamsun-Nahar-Nitu/threebroomsticks) | **Restaurant Billing System** (Framework: **C++ Console**) <br> • Menu handling & order processing <br> • Automated billing generation <br> • Console-based interface <br> • Demonstrates OOP fundamentals | <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> |
 
-| 📂 Repository | 📝 Description | 🛠️ Tech Stack |
-|---------------|----------------|---------------|
-| [**iubat-library-management**](https://github.com/Shamsun-Nahar-Nitu/iubat-library-management) | End-to-end **Library Management System** built with Django. Features include role-based access (Student, Faculty, Librarian, Admin), book issue/return workflows, fine calculation, and automated reporting — designed for institutional scalability. | Django · Python · HTML · CSS · JavaScript |
-| [**mini-credit-scoring-system**](https://github.com/Shamsun-Nahar-Nitu/mini-credit-scoring-system) | **Credit Scoring ML/DL Model** leveraging machine learning & deep learning to predict customer creditworthiness. Includes full Kaggle notebook with exploratory data analysis, feature engineering, and model evaluation. | Python · Machine Learning · Deep Learning · Jupyter Notebook |
-| [**threebroomsticks**](https://github.com/Shamsun-Nahar-Nitu/threebroomsticks) | Console-based **Restaurant Billing System** inspired by *The Three Broomsticks* (Harry Potter). Implements menu handling, order processing, and automated billing — showcasing strong problem-solving and C++ fundamentals. | C++ |
+
 
 <br/>
 
