@@ -88,6 +88,8 @@
 | Project | Description |
 |---------|-------------|
 | **[Snake Game](https://github.com/Shamsun-Nahar-Nitu/snake-game-python)** | Classic snake game built with Python and Pygame |
+| **[Offline Jumping Chicken Dino](https://github.com/Shamsun-Nahar-Nitu/Offline-Jumping-Chicken-Dino)** | A playful Python game blending dino & chicken themes, inspired by Chrome’s offline jumping dino |
+
 
 > *Explore more projects on my [GitHub profile](https://github.com/Shamsun-Nahar-Nitu?tab=repositories)*
 
