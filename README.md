@@ -97,23 +97,16 @@
 
 ### 📈 GitHub Analytics
 
-
-
-<p align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=Shamsun-Nahar-Nitu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img width="32%" src="https://nirzak-streak-stats.vercel.app/?user=Shamsun-Nahar-Nitu&theme=tokyonight&hide_border=false"/>
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamsun-Nahar-Nitu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
+| General Stats | Streak Stats | Top Languages |
+| :---: | :---: | :---: |
+| <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Shamsun-Nahar-Nitu&theme=tokyonight&show_icons=true" width="300" /> | <img src="https://github-readme-streak-stats-five.vercel.app/?user=Shamsun-Nahar-Nitu&theme=tokyonight" width="300" /> | <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Shamsun-Nahar-Nitu&theme=tokyonight&layout=compact" width="300" /> |
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Shamsun-Nahar-Nitu&icon=2&color=6)](https://visitcount.itsvg.in)
-
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shamsun-Nahar-Nitu&color=blueviolet&style=flat-square" alt="Visitor Count" />
+</p>
 
 <div align="center">
   <i>Let's build something amazing together! 🚀</i>
 </div>
-
