@@ -96,15 +96,27 @@
 ---
 
 ### 📈 GitHub Analytics
+<p align="center">
 
-| General Stats | Streak Stats | Top Languages |
-| :---: | :---: | :---: |
-| <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Shamsun-Nahar-Nitu&theme=tokyonight&show_icons=true" width="300" /> | <img src="https://github-readme-streak-stats-five.vercel.app/?user=Shamsun-Nahar-Nitu&theme=tokyonight" width="300" /> | <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Shamsun-Nahar-Nitu&theme=tokyonight&layout=compact" width="300" /> |
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=Shamsun-Nahar-Nitu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+
+  <img width="32%" src="https://nirzak-streak-stats.vercel.app/?user=Shamsun-Nahar-Nitu&theme=tokyonight&hide_border=false"/>
+
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamsun-Nahar-Nitu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+
+</p>
+
+
+
+### 📊 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shamsun-Nahar-Nitu&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=7aa2f7&area=true&hide_border=true" width="100%" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shamsun-Nahar-Nitu&color=blueviolet&style=flat-square" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Shamsun-Nahar-Nitu&color=7aa2f7&style=flat-square" alt="Visitor Count" />
 </p>
 
 <div align="center">
