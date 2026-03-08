@@ -72,30 +72,27 @@
 </table>
 
 ---
-
 ### 💼 Featured Projects
 
-#### 🏆 Main Projects
-
+#### 🏗️ Web Development Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Library Management System](https://github.com/Shamsun-Nahar-Nitu/iubat-library-management)** | Full-featured library system with role-based access, automated fine calculation, and analytics dashboard | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **[Credit Scoring System](https://github.com/Shamsun-Nahar-Nitu/mini-credit-scoring-system)** | ML-based credit scoring with comprehensive EDA, feature engineering, and model evaluation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
-| **[Restaurant Billing System](https://github.com/Shamsun-Nahar-Nitu/threebroomsticks)** | Console-based billing application demonstrating OOP principles and menu management | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
-| **[Fintech AML Pipeline](https://github.com/Shamsun-Nahar-Nitu/fintech-aml-pipeline)** | Robust Anti-Money Laundering pipeline for credit card fraud detection. Implements leakage-free preprocessing, RobustScaler for financial outliers, and threshold optimization to maximize recall. Baseline tuned logistic regression achieves ~82% fraud detection recall. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
+| **[Library Management System](https://github.com/Shamsun-Nahar-Nitu/iubat-library-management)** | Full-featured web-based library management system with role-based access control, automated fine calculation, book reservation, real-time availability, and analytics dashboard | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 
+#### 📊 Data Science & Machine Learning Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Credit Scoring System](https://github.com/Shamsun-Nahar-Nitu/mini-credit-scoring-system)** | End-to-end machine learning solution for credit risk assessment, featuring comprehensive EDA, feature engineering, model development, and performance evaluation using deep learning frameworks | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
+| **[Fintech AML Pipeline](https://github.com/Shamsun-Nahar-Nitu/fintech-aml-pipeline)** | Production-ready Anti-Money Laundering pipeline for credit card fraud detection. Includes leakage-free preprocessing, RobustScaler for outlier handling, threshold optimization, and tuned logistic regression achieving ~82% fraud recall | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
 
-#### 🎮 Side Projects & Experiments
+#### 🛠️ Side Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Restaurant Billing System](https://github.com/Shamsun-Nahar-Nitu/threebroomsticks)** | Console-based restaurant billing application showcasing strong OOP principles, dynamic menu management, order processing, and receipt generation | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
+| **[Snake Game](https://github.com/Shamsun-Nahar-Nitu/snake-game-python)** | Classic Snake game with smooth controls, real-time scoring, collision detection, and increasing difficulty levels | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat&logo=pygame&logoColor=white) |
+| **[Offline Jumping Chicken Dino](https://github.com/Shamsun-Nahar-Nitu/Offline-Jumping-Chicken-Dino)** | Endless runner game inspired by Chrome’s offline dinosaur, featuring chicken theme, jumping mechanics, obstacle avoidance, and progressive difficulty | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 
-| Project | Description |
-|---------|-------------|
-| **[Snake Game](https://github.com/Shamsun-Nahar-Nitu/snake-game-python)** | Classic snake game built with Python and Pygame |
-| **[Offline Jumping Chicken Dino](https://github.com/Shamsun-Nahar-Nitu/Offline-Jumping-Chicken-Dino)** | A playful Python game blending dino & chicken themes, inspired by Chrome’s offline jumping dino |
-
-
-> *Explore more projects on my [GitHub profile](https://github.com/Shamsun-Nahar-Nitu?tab=repositories)*
-
----
+> *Explore all projects on my [GitHub profile](https://github.com/Shamsun-Nahar-Nitu?tab=repositories)* 
 
 ### 📈 GitHub Analytics
 <p>
