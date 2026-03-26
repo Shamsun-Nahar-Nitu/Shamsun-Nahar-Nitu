@@ -102,7 +102,8 @@
   
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shamsun-Nahar-Nitu&theme=tokyonight&show_icons=true&cache_seconds=1800"  /> 
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Shamsun-Nahar-Nitu&theme=tokyonight&hide_border=false"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shamsun-Nahar-Nitu&theme=tokyonight&hide_border=false"/>
+
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shamsun-Nahar-Nitu&theme=tokyonight&layout=compact&cache_seconds=1800"  />
 
