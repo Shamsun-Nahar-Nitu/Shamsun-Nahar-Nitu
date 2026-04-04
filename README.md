@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0011ff,100:00ffff&height=120&section=header" alt="Neon Blue Gradient Header" />
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=7DCFFF&cursor=_&center=true&vCenter=true&width=1000&lines=%3E+Hello,+World!;git+commit+-m+%22Hello,+World!%22;print(%22Hello,+World!%22);" alt="Typing SVG" />
