@@ -1,11 +1,8 @@
-<div align="center">
-
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Hello,+World!;print('Hello,+World!');console.log('Hello,+World!');System.out.println('Hello,+World!');" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=7DCFFF&cursor=_&center=true&vCenter=true&width=1000&lines=%3E+Hello,+World!;git+commit+-m+%22Hello,+World!%22;print(%22Hello,+World!%22);" alt="Typing SVG" />
   </a>
-
-
-</div>
+</p>
 
 
 
