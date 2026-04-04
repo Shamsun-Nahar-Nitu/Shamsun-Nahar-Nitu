@@ -1,8 +1,17 @@
 <div align="center">
-  <img width="100%" alt="header" src="https://github.com/user-attachments/assets/50837ce5-4e59-49ad-b72f-ea7503067a11" />
+
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Hello,+World!;print('Hello,+World!');console.log('Hello,+World!');System.out.println('Hello,+World!');" alt="Typing SVG" />
+  </a>
+
+
 </div>
 
-<h1 align="center"> I'm Shamsun Nahar Nitu </h1>
+
+
+
+
+<h2 align="center"> I'm Shamsun Nahar Nitu </h2>
 
 <p align="center">
   <strong>Aspiring Full-Stack Developer & Data Enthusiast</strong><br/>
