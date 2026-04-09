@@ -100,7 +100,7 @@
 #### 🛠️ Side Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Restaurant Billing System](https://github.com/Shamsun-Nahar-Nitu/threebroomsticks)** | Console-based restaurant billing application showcasing strong OOP principles, dynamic menu management, order processing, and receipt generation | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
+| **[Restaurant Billing System](https://github.com/Shamsun-Nahar-Nitu/threebroomsticks)** | Console-based restaurant billing application (inspired by three broomsticks from harry potter) showcasing OOP principles, dynamic menu management, order processing, and receipt generation | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
 | **[Snake Game](https://github.com/Shamsun-Nahar-Nitu/snake-game-python)** | Classic Snake game with smooth controls, real-time scoring, collision detection, and increasing difficulty levels | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat&logo=pygame&logoColor=white) |
 | **[Offline Jumping Chicken Dino](https://github.com/Shamsun-Nahar-Nitu/Offline-Jumping-Chicken-Dino)** | Endless runner game inspired by Chrome’s offline dinosaur, featuring chicken theme, jumping mechanics, obstacle avoidance, and progressive difficulty | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 
