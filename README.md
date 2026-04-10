@@ -13,8 +13,8 @@
 <h2 align="center"> I'm Shamsun Nahar Nitu </h2>
 
 <p align="center">
-  <strong>Aspiring Full-Stack Developer & Data Enthusiast</strong><br/>
-  Building user-friendly applications and extracting meaningful insights from data
+  <strong>CSE Undergraduate @ IUBAT | Aspiring Full-Stack Developer & Data Enthusiast</strong><br/>
+  Passionate about crafting clean, user-friendly applications and turning raw data into meaningful insights.
 </p>
 
 <p align="center">
@@ -33,12 +33,13 @@
 
 ### 🎯 About Me
 
-- 💼 Focused on **full-stack development** and **data-driven solutions**
-- 🌱 Currently learning **React, Next.js, Python for ML**, and **cloud technologies**
-- 🎨 Passionate about **clean code, UI/UX design**, and **performance optimization**
-- 📊 Interested in **data analysis, visualization**, and **machine learning**
-- 🚀 Open to collaborations and exciting projects
+- 💼 **CSE Undergraduate** at International University of Business Agriculture and Technology (IUBAT)
+- 🌱 Currently building expertise in **React, Next.js, Python for ML**, and cloud technologies
+- 🎨 Love writing **clean, maintainable code**, designing intuitive UIs, and optimizing performance
+- 📊 Passionate about **data analysis, visualization, machine learning**, and building data-driven solutions
+- 🚀 Open to **collaborations**, internships, and exciting projects — always eager to learn and contribute!
 
+---
 ---
 
 ### 🛠️ Tech Stack
