@@ -18,6 +18,9 @@
 </p>
 
 <p align="center">
+  <a href="https://shamsun-nahar-nitu.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/shamsun-nahar-nitu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
