@@ -134,10 +134,7 @@
 
 
 
-### 📊 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shamsun-Nahar-Nitu&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=7aa2f7&area=true&hide_border=true" width="100%" />
-</p>
+
 
 <div>
   <i>Let's build something amazing together! 🚀</i>
