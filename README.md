@@ -114,7 +114,6 @@
 | **[Restaurant Billing System](https://github.com/Shamsun-Nahar-Nitu/threebroomsticks)** | Console-based restaurant billing application (inspired by three broomsticks from harry potter) showcasi[...] | **C++** |
 | **[Snake Game](https://github.com/Shamsun-Nahar-Nitu/snake-game-python)** | Classic Snake game with smooth controls, real-time scoring, collision detection, and increasing difficulty levels | **Python, Pygame** |
 | **[Offline Jumping Chicken Dino](https://github.com/Shamsun-Nahar-Nitu/Offline-Jumping-Chicken-Dino)** | Endless runner game inspired by Chrome’s offline dinosaur, featuring chicken theme, ju[...] | **Python, Pygame** |
-| **[GitHub Space Shooter](https://github.com/Shamsun-Nahar-Nitu/space-shooter)** | Browser-based space shooter game with player-controlled ship, multiple enemy types, power-ups, and scoring system. Includes responsive controls and simple sound effects. | **JavaScript, HTML5 Canvas, CSS** |
 
 > *Explore all projects on my [GitHub profile](https://github.com/Shamsun-Nahar-Nitu?tab=repositories)* 
 
