@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=7DCFFF&cursor=_&center=true&vCenter=true&width=1000&lines=%3E+Hello,+World!;git+commit+-m+%22Hello,+World!%22;print(%22Hello,+World!%22);" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=7DCFFF&cursor=_&center=true&vCenter=true&width=1000&lines=%3E+Hello,+World!;git+commit+-m[...]"/>
   </a>
 </p>
 
@@ -95,38 +95,38 @@
 #### 🏗️ Web Development Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Library Management System](https://github.com/Shamsun-Nahar-Nitu/iubat-library-management)** | Full-featured web-based library management system with role-based access control, automated fine calculation, book reservation, real-time availability, and analytics dashboard | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **[Morse Translator](https://github.com/Shamsun-Nahar-Nitu/Morse-Translator)** | Secure Django web application for bidirectional text ↔ Morse code translation with pixel-art CSS styling | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **[Online Medicine Store](https://github.com/A-Rakin/Online-Medicine-Store)** | Full-stack e-commerce platform for online medicine purchase with user authentication, product browsing & filtering, shopping cart, order tracking, invoice generation, admin dashboard for inventory management, and SSLCommerz payment integration | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
-| **[Stationery Marketplace](https://github.com/Shamsun-Nahar-Nitu/stationery-marketplace)** | Multi-vendor stationery marketplace built with Django and PostgreSQL. Includes vendor profiles, product catalog, session-based cart, stock-aware checkout, and admin support for sellers, categories, and products. 🚧 Under active development | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
+| **[Library Management System](https://github.com/Shamsun-Nahar-Nitu/iubat-library-management)** | Full-featured web-based library management system with role-based access control, automated fine[...] | **JavaScript, Django, PostgreSQL** |
+| **[Morse Translator](https://github.com/Shamsun-Nahar-Nitu/Morse-Translator)** | Secure Django web application for bidirectional text ↔ Morse code translation with pixel-art CSS styling | **Python, Django, HTML/CSS** |
+| **[Online Medicine Store](https://github.com/A-Rakin/Online-Medicine-Store)** | Full-stack e-commerce platform for online medicine purchase with user authentication, product browsing & filterin[...] | **Django, Stripe/SSLCommerz, PostgreSQL** |
+| **[Stationery Marketplace](https://github.com/Shamsun-Nahar-Nitu/stationery-marketplace)** | Multi-vendor stationery marketplace built with Django and PostgreSQL. Includes vendor profiles, prod[...] | **Django, PostgreSQL, Docker** |
 
 #### 📊 Data Science & Machine Learning Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Credit Scoring System](https://github.com/Shamsun-Nahar-Nitu/mini-credit-scoring-system)** | End-to-end machine learning solution for credit risk assessment, featuring comprehensive EDA, feature engineering, model development, and performance evaluation using deep learning frameworks | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
-| **[Fintech AML Pipeline](https://github.com/Shamsun-Nahar-Nitu/fintech-aml-pipeline)** | Production-ready Anti-Money Laundering pipeline for credit card fraud detection. Includes leakage-free preprocessing, RobustScaler for outlier handling, threshold optimization, and tuned logistic regression achieving ~82% fraud recall | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
-| **[Word Count Project](https://github.com/Shamsun-Nahar-Nitu/Word-Count-Project)** | Text processing and NLP pipeline that performs automated text cleaning (NLTK), word frequency analysis (overall & per-file), bigram generation, word cloud visualization, and CSV export | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) |
-| **[AI Based Loan Approval Expert System](https://github.com/Shamsun-Nahar-Nitu/AI-Based-Loan-Approval-Expert-System.git)** | This project uses machine learning to automate loan approval decisions. It evaluates applicant data (income, credit score, loan amount, etc.) to predict approval outcomes. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) |
+| **[Credit Scoring System](https://github.com/Shamsun-Nahar-Nitu/mini-credit-scoring-system)** | End-to-end machine learning solution for credit risk assessment, featuring comprehensive EDA, fea[...] | **Python, scikit-learn, pandas** |
+| **[Fintech AML Pipeline](https://github.com/Shamsun-Nahar-Nitu/fintech-aml-pipeline)** | Production-ready Anti-Money Laundering pipeline for credit card fraud detection. Includes leakage-free p[...] | **Python, sklearn, PySpark** |
+| **[Word Count Project](https://github.com/Shamsun-Nahar-Nitu/Word-Count-Project)** | Text processing and NLP pipeline that performs automated text cleaning (NLTK), word frequency analysis (over[...] | **Python, NLTK, matplotlib** |
+| **[AI Based Loan Approval Expert System](https://github.com/Shamsun-Nahar-Nitu/AI-Based-Loan-Approval-Expert-System.git)** | This project uses machine learning to automate loan approval decisio[...] | **Python, scikit-learn** |
 
 #### 🛠️ Side Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Restaurant Billing System](https://github.com/Shamsun-Nahar-Nitu/threebroomsticks)** | Console-based restaurant billing application (inspired by three broomsticks from harry potter) showcasing OOP principles, dynamic menu management, order processing, and receipt generation | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
-| **[Snake Game](https://github.com/Shamsun-Nahar-Nitu/snake-game-python)** | Classic Snake game with smooth controls, real-time scoring, collision detection, and increasing difficulty levels | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat&logo=pygame&logoColor=white) |
-| **[Offline Jumping Chicken Dino](https://github.com/Shamsun-Nahar-Nitu/Offline-Jumping-Chicken-Dino)** | Endless runner game inspired by Chrome’s offline dinosaur, featuring chicken theme, jumping mechanics, obstacle avoidance, and progressive difficulty | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **[Restaurant Billing System](https://github.com/Shamsun-Nahar-Nitu/threebroomsticks)** | Console-based restaurant billing application (inspired by three broomsticks from harry potter) showcasi[...] | **C++** |
+| **[Snake Game](https://github.com/Shamsun-Nahar-Nitu/snake-game-python)** | Classic Snake game with smooth controls, real-time scoring, collision detection, and increasing difficulty levels | **Python, Pygame** |
+| **[Offline Jumping Chicken Dino](https://github.com/Shamsun-Nahar-Nitu/Offline-Jumping-Chicken-Dino)** | Endless runner game inspired by Chrome’s offline dinosaur, featuring chicken theme, ju[...] | **Python, Pygame** |
+| **[GitHub Space Shooter](https://github.com/Shamsun-Nahar-Nitu/space-shooter)** | Browser-based space shooter game with player-controlled ship, multiple enemy types, power-ups, and scoring system. Includes responsive controls and simple sound effects. | **JavaScript, HTML5 Canvas, CSS** |
 
 > *Explore all projects on my [GitHub profile](https://github.com/Shamsun-Nahar-Nitu?tab=repositories)* 
-
 
 
 
 ### 📈 GitHub Analytics
 
 <div>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shamsun-Nahar-Nitu&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=345" alt="Shamsun-Nahar-Nitu's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shamsun-Nahar-Nitu&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=345" alt=[...]>
   
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shamsun-Nahar-Nitu&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&locale=en&timezone=Asia%2FDhaka&cache_buster=345" alt="Shamsun-Nahar-Nitu's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shamsun-Nahar-Nitu&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&locale=en&timezone=Asia%2FDhaka&cache_buster=3[...]">
   
   
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shamsun-Nahar-Nitu&theme=tokyonight&layout=compact&cache_seconds=345" alt="Top Languages" />
@@ -145,5 +145,3 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Shamsun-Nahar-Nitu&color=7aa2f7&style=flat-square" alt="Visitor Count" />
 </p>
-
-
